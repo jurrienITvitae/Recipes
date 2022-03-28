@@ -4,6 +4,5 @@ Ingredients:
 	- a pumpkin
 	- five slices of smokes paprika
 	- five tomatoes
-	- one onions
+	- five onions
 	- four carrots
-	- garlic
