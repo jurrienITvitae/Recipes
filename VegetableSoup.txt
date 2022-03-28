@@ -8,3 +8,4 @@ Ingredients:
 	- four carrots
 	- bouillon
 	- garlic
+	- carrots
