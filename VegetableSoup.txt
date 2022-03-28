@@ -8,5 +8,3 @@ Ingredients:
 	- four carrots
 	- bouillon
 	- garlic
-	- coriander
-	- bla
