@@ -8,3 +8,5 @@ Ingredients:
 	- bouillon
 	- salt
 	- pepper
+	- knoflook
+	-
